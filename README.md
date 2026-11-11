@@ -17,28 +17,8 @@
 
 Hi, I'm **Rindi**! 🌸 I turn messy data into forecasts, dashboards and small stories people can actually use.
 I just graduated with a degree in Information Systems, and most of my research so far is about
-**forecasting air pollution with deep learning** (LSTM, GRU, CNN and hybrid models).
+**forecasting air pollution with deep learning**.
 Outside of code, I make gaming videos on YouTube as **Rindi Antika**, where I've grown a little community of 9,700+ subscribers.
-
-<div align="center">
-
-<img src="assets/divider.svg" alt="" width="70%">
-
-<img src="assets/h-education.svg" alt="education" width="60%">
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="140">🎓</td>
-    <td>
-      <b>Telkom University Purwokerto</b><br>
-      Bachelor of Information Systems · Oct 2022 – Aug 2026<br>
-      <b>GPA 3.90 · Cum Laude</b><br>
-      <sub>Data Warehouse &amp; Business Intelligence · Decision Support Systems · Data Science &amp; Machine Learning · Supply Chain Management</sub>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
 
@@ -48,10 +28,7 @@ Outside of code, I make gaming videos on YouTube as **Rindi Antika**, where I've
 
 </div>
 
-- 🌤️ **Air quality forecasting.** Predicting SO₂, NO₂ and PM with time-series deep learning, so people can see what's coming and not only what already happened.
-- 📊 **Dashboards that make sense.** Power BI, Streamlit and small web apps that anyone can read at a glance.
-- 🔬 **Writing research.** Turning experiments into papers, and papers into something others can build on.
-- 🎮 **Making videos.** Planning, filming and talking to a real audience taught me a lot about communicating clearly.
+I enjoy processing data to build predictive models, creating dashboards, conducting research, and producing content for YouTube.
 
 <div align="center">
 
@@ -88,28 +65,7 @@ Outside of code, I make gaming videos on YouTube as **Rindi Antika**, where I've
 ![GitHub](https://img.shields.io/badge/GitHub-5FB3E6?style=flat-square&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-EC7FA8?style=flat-square&logo=googlecolab&logoColor=white)
 
-<img src="assets/divider.svg" alt="" width="70%">
-
-<img src="assets/h-little-highlights.svg" alt="little highlights" width="60%">
-
 </div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="190"><h3>6</h3>publications,<br>4 of them IEEE-indexed</td>
-    <td align="center" width="190"><h3>CDS</h3>BNSP Certified<br>Data Scientist</td>
-    <td align="center" width="190"><h3>2</h3>registered IPs<br>(HKI)</td>
-    <td align="center" width="190"><h3>9.7K+</h3>YouTube<br>subscribers</td>
-  </tr>
-</table>
-
-<p align="center">
-  Some things I've built lately:
-  <a href="https://portfolio-rindiindahlestari.vercel.app/#projects">air quality forecast dashboard</a> ·
-  inventory system for PT KITB ·
-  deforestation sentiment analysis ·
-  AI sheep weight prediction for a village farm
-</p>
 
 <div align="center">
 
