@@ -45,12 +45,6 @@ I enjoy processing data to build predictive models, creating dashboards, conduct
 ![PySpark](https://img.shields.io/badge/PySpark-EC7FA8?style=flat-square&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-5FB3E6?style=flat-square&logo=databricks&logoColor=white)
 
-![LSTM · GRU · CNN](https://img.shields.io/badge/LSTM_·_GRU_·_CNN-5FB3E6?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC7FA8?style=flat-square)
-![ARIMA](https://img.shields.io/badge/ARIMA-5FB3E6?style=flat-square)
-![SVM and Logistic Regression](https://img.shields.io/badge/SVM_·_Logistic_Regression-EC7FA8?style=flat-square)
-![NLP](https://img.shields.io/badge/TF--IDF_/_NLP-5FB3E6?style=flat-square)
-
 ![Power BI](https://img.shields.io/badge/Power_BI-EC7FA8?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-5FB3E6?style=flat-square&logo=streamlit&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/Pentaho-EC7FA8?style=flat-square)
